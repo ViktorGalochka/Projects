@@ -1,4 +1,4 @@
-https://viktorgalochka.github.io/My-portfolio/
+https://viktorgalochka.github.io/Viktor-Galochka-portfolio/
 
 https://viktorgalochka.github.io/LandingPage-with-BEM/
 
